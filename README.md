@@ -4,6 +4,7 @@ Welcome to my GitHub profile! I'm passionate about all things machine learning a
 
 Here, you'll find a collection of projects, code samples, and resources that showcase my journey as a machine learning engineer.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🛠️ Popular Repositories
 
@@ -13,7 +14,7 @@ MLFlow: MLFlow Tutorial
 
 Flask: Flask Tutorial
 
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Tools and Technologies
 
 Languages: Python
